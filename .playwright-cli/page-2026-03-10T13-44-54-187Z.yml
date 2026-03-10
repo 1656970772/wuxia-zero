@@ -1,0 +1,517 @@
+- generic [ref=e2]:
+  - region
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner "Global Navigation Menu" [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - button "Open menu" [ref=e12] [cursor=pointer]:
+            - img [ref=e13]
+          - link "Homepage (g then d)" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e16]
+        - generic [ref=e18]:
+          - navigation "Breadcrumbs" [ref=e19]:
+            - list [ref=e20]:
+              - listitem [ref=e21]:
+                - link "Dashboard" [ref=e22] [cursor=pointer]:
+                  - /url: https://github.com/
+                  - generic [ref=e23]: Dashboard
+          - button "Search or jump to…" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27]:
+              - generic:
+                - img
+              - generic [ref=e28]:
+                - generic:
+                  - text: Type
+                  - generic: /
+                  - text: to search
+        - generic [ref=e29]:
+          - generic [ref=e30]:
+            - generic [ref=e32]:
+              - link "Chat with Copilot" [ref=e34] [cursor=pointer]:
+                - /url: /copilot
+                - img [ref=e35]
+              - button "Open Copilot…" [ref=e39] [cursor=pointer]:
+                - generic:
+                  - img
+            - button "Create new..." [ref=e41] [cursor=pointer]:
+              - generic [ref=e42]:
+                - generic:
+                  - img
+              - generic:
+                - img
+            - link "Issues (g then i)" [ref=e43] [cursor=pointer]:
+              - /url: /issues
+              - img [ref=e44]
+            - link "Pull requests (g then p)" [ref=e47] [cursor=pointer]:
+              - /url: /pulls
+              - img [ref=e48]
+            - link "Repositories" [ref=e50] [cursor=pointer]:
+              - /url: /repos
+              - img [ref=e51]
+          - link "You have no unread notifications (g then n)" [ref=e53] [cursor=pointer]:
+            - /url: /notifications
+            - img [ref=e54]
+          - button "Open user navigation menu" [ref=e57] [cursor=pointer]:
+            - img "zhouzhicheng" [ref=e58]
+  - generic [ref=e62]:
+    - complementary "Account" [ref=e63]:
+      - generic [ref=e65]:
+        - generic [ref=e68]:
+          - img "@1656970772" [ref=e69]
+          - button "Go to 1656970772 dashboard" [ref=e72] [cursor=pointer]:
+            - generic [ref=e74]: "1656970772"
+            - generic:
+              - img
+        - navigation "Repositories" [ref=e78]:
+          - generic [ref=e79]:
+            - generic [ref=e80]:
+              - heading "Top repositories" [level=2] [ref=e81]
+              - link "New" [ref=e82] [cursor=pointer]:
+                - /url: /new
+                - generic [ref=e83]:
+                  - generic:
+                    - img
+                  - generic [ref=e84]: New
+            - search "Top repositories" [ref=e85]:
+              - textbox "Find a repository…" [ref=e86]
+            - list [ref=e87]:
+              - listitem [ref=e88]:
+                - generic [ref=e89]:
+                  - link "Forked repository" [ref=e90] [cursor=pointer]:
+                    - /url: /1656970772/UnrealCSharp
+                    - img "Forked repository" [ref=e91]
+                  - link "1656970772/UnrealCSharp" [ref=e93] [cursor=pointer]:
+                    - /url: /1656970772/UnrealCSharp
+              - listitem [ref=e94]:
+                - generic [ref=e95]:
+                  - link "Forked repository" [ref=e96] [cursor=pointer]:
+                    - /url: /1656970772/UnrealEngine
+                    - img "Forked repository" [ref=e97]
+                  - link "1656970772/UnrealEngine" [ref=e99] [cursor=pointer]:
+                    - /url: /1656970772/UnrealEngine
+              - listitem [ref=e100]:
+                - generic [ref=e101]:
+                  - link "Forked repository" [ref=e102] [cursor=pointer]:
+                    - /url: /1656970772/UE_TAPython_Plugin_Release
+                    - img "Forked repository" [ref=e103]
+                  - link "1656970772/UE_TAPython_Plugin_Release" [ref=e105] [cursor=pointer]:
+                    - /url: /1656970772/UE_TAPython_Plugin_Release
+              - listitem [ref=e106]:
+                - generic [ref=e107]:
+                  - link "Repository" [ref=e108] [cursor=pointer]:
+                    - /url: /1656970772/LifeTimeGame
+                    - img "Repository" [ref=e109]
+                  - link "1656970772/LifeTimeGame" [ref=e111] [cursor=pointer]:
+                    - /url: /1656970772/LifeTimeGame
+              - listitem [ref=e112]:
+                - generic [ref=e113]:
+                  - link "Repository" [ref=e114] [cursor=pointer]:
+                    - /url: /1656970772/LifeTime
+                    - img "Repository" [ref=e115]
+                  - link "1656970772/LifeTime" [ref=e117] [cursor=pointer]:
+                    - /url: /1656970772/LifeTime
+              - listitem [ref=e118]:
+                - generic [ref=e119]:
+                  - link "Repository" [ref=e120] [cursor=pointer]:
+                    - /url: /1656970772/Sanke
+                    - img "Repository" [ref=e121]
+                  - link "1656970772/Sanke" [ref=e123] [cursor=pointer]:
+                    - /url: /1656970772/Sanke
+              - listitem [ref=e124]:
+                - generic [ref=e125]:
+                  - link "Repository" [ref=e126] [cursor=pointer]:
+                    - /url: /1656970772/Tanks
+                    - img "Repository" [ref=e127]
+                  - link "1656970772/Tanks" [ref=e129] [cursor=pointer]:
+                    - /url: /1656970772/Tanks
+    - generic [ref=e132]:
+      - generic [ref=e133]:
+        - main [ref=e134]:
+          - generic [ref=e136]:
+            - heading "Dashboard" [level=1] [ref=e137]
+            - heading "Home" [level=2] [ref=e139]
+            - generic [ref=e140]:
+              - generic [ref=e144]:
+                - generic [ref=e148]:
+                  - textbox "Ask anything" [ref=e151]
+                  - generic [ref=e152]:
+                    - button "Ask" [ref=e155] [cursor=pointer]:
+                      - generic [ref=e156]:
+                        - generic:
+                          - img
+                        - generic [ref=e157]: Ask
+                      - generic:
+                        - img
+                    - generic [ref=e158]:
+                      - button "Select repositories to attach to conversation" [ref=e159] [cursor=pointer]:
+                        - generic [ref=e160]:
+                          - generic:
+                            - img
+                          - generic "All repositories" [ref=e162]
+                        - generic:
+                          - img
+                      - button "Add files, and spaces" [ref=e163] [cursor=pointer]:
+                        - img [ref=e164]
+                    - button "Send now (enter)" [ref=e168] [cursor=pointer]:
+                      - img [ref=e169]
+                - heading "Chat Commands" [level=2] [ref=e171]
+                - list [ref=e173]:
+                  - listitem [ref=e174]:
+                    - button "Agent" [ref=e175] [cursor=pointer]:
+                      - img [ref=e176]
+                      - generic [ref=e179]: Agent
+                  - listitem [ref=e180]:
+                    - button "Create issue" [ref=e181] [cursor=pointer]:
+                      - img [ref=e182]
+                      - generic [ref=e184]: Create issue
+                  - listitem [ref=e185]:
+                    - button "Write code" [ref=e186] [cursor=pointer]:
+                      - img [ref=e189]
+                      - generic [ref=e191]:
+                        - text: Write code
+                        - img [ref=e193]
+                  - listitem [ref=e195]:
+                    - button "Git" [ref=e196] [cursor=pointer]:
+                      - img [ref=e199]
+                      - generic [ref=e201]:
+                        - text: Git
+                        - img [ref=e203]
+                  - listitem [ref=e205]:
+                    - button "Pull requests" [ref=e206] [cursor=pointer]:
+                      - img [ref=e209]
+                      - generic [ref=e211]:
+                        - text: Pull requests
+                        - img [ref=e213]
+              - generic [ref=e216]:
+                - generic [ref=e217]:
+                  - img "EpicGames" [ref=e218]
+                  - heading "You've been added to the EpicGames organization." [level=2] [ref=e219]:
+                    - text: You've been added to the
+                    - strong [ref=e220]: EpicGames
+                    - text: organization.
+                - generic [ref=e221]:
+                  - link "View organization" [ref=e222] [cursor=pointer]:
+                    - /url: https://github.com/EpicGames
+                    - generic [ref=e224]: View organization
+                  - button "Hide this notice forever" [ref=e226] [cursor=pointer]:
+                    - img [ref=e227]
+              - generic [ref=e229]:
+                - generic [ref=e230]:
+                  - heading "Feed" [level=2] [ref=e231]
+                  - group [ref=e234]:
+                    - button "Filter" [ref=e235] [cursor=pointer]:
+                      - img [ref=e236]
+                      - text: Filter
+                - generic [ref=e239]:
+                  - article [ref=e241]:
+                    - generic [ref=e243]:
+                      - generic [ref=e245]:
+                        - generic [ref=e247]:
+                          - link "@529324416 profile" [ref=e248] [cursor=pointer]:
+                            - /url: /529324416
+                            - img "@529324416 profile" [ref=e249]
+                          - img [ref=e250]
+                        - generic [ref=e252]:
+                          - heading "529324416 starred a repository Feed item options" [level=3] [ref=e253]:
+                            - generic [ref=e254]:
+                              - generic [ref=e255]:
+                                - link "529324416" [ref=e256] [cursor=pointer]:
+                                  - /url: /529324416
+                                - text: starred
+                              - generic [ref=e259]: a repository
+                            - button "Feed item options" [ref=e263] [cursor=pointer]:
+                              - img
+                          - heading "March 8, 2026 21:51yesterday" [level=4] [ref=e265]
+                      - region "repository body 0" [ref=e269]:
+                        - generic [ref=e271]:
+                          - generic [ref=e272]:
+                            - generic [ref=e273]:
+                              - link "@stride3d profile" [ref=e274] [cursor=pointer]:
+                                - /url: /stride3d
+                                - img "@stride3d profile" [ref=e275]
+                              - link "stride3d/stride" [ref=e276] [cursor=pointer]:
+                                - /url: /stride3d/stride
+                            - generic [ref=e277]: Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
+                            - region "Repo Details 0" [ref=e279]:
+                              - generic [ref=e281]: C#
+                              - link "7494 stargazers" [ref=e283] [cursor=pointer]:
+                                - /url: /stride3d/stride/stargazers
+                                - img [ref=e284]
+                                - text: 7.5k
+                          - generic [ref=e288]:
+                            - button "Star this repository" [ref=e290] [cursor=pointer]:
+                              - img [ref=e291]
+                              - text: Star
+                            - group [ref=e293]:
+                              - button "Add this repository to a list" [ref=e294] [cursor=pointer]:
+                                - img [ref=e295]
+                  - article [ref=e297]:
+                    - generic [ref=e299]:
+                      - generic [ref=e301]:
+                        - generic [ref=e303]:
+                          - link "@529324416 profile" [ref=e304] [cursor=pointer]:
+                            - /url: /529324416
+                            - img "@529324416 profile" [ref=e305]
+                          - img [ref=e306]
+                        - generic [ref=e308]:
+                          - heading "529324416 starred 2 repositories Feed item options" [level=3] [ref=e309]:
+                            - generic [ref=e310]:
+                              - generic [ref=e311]:
+                                - link "529324416" [ref=e312] [cursor=pointer]:
+                                  - /url: /529324416
+                                - text: starred
+                              - generic [ref=e315]: 2 repositories
+                            - button "Feed item options" [ref=e319] [cursor=pointer]:
+                              - img
+                          - heading "February 21, 2026 22:302 weeks ago" [level=4] [ref=e321]
+                      - generic [ref=e322]:
+                        - region "repository body 1-0" [ref=e325]:
+                          - generic [ref=e327]:
+                            - generic [ref=e328]:
+                              - generic [ref=e329]:
+                                - link "@CGAL profile" [ref=e330] [cursor=pointer]:
+                                  - /url: /CGAL
+                                  - img "@CGAL profile" [ref=e331]
+                                - link "CGAL/cgal" [ref=e332] [cursor=pointer]:
+                                  - /url: /CGAL/cgal
+                              - generic [ref=e333]: The public CGAL repository, see the README below
+                              - region "Repo Details 1-0" [ref=e335]:
+                                - generic [ref=e337]: C++
+                                - link "5786 stargazers" [ref=e339] [cursor=pointer]:
+                                  - /url: /CGAL/cgal/stargazers
+                                  - img [ref=e340]
+                                  - text: 5.8k
+                            - generic [ref=e344]:
+                              - button "Star this repository" [ref=e346] [cursor=pointer]:
+                                - img [ref=e347]
+                                - text: Star
+                              - group [ref=e349]:
+                                - button "Add this repository to a list" [ref=e350] [cursor=pointer]:
+                                  - img [ref=e351]
+                        - article [ref=e354]:
+                          - region "repository body 1-1" [ref=e360]:
+                            - generic [ref=e362]:
+                              - generic [ref=e363]:
+                                - generic [ref=e364]:
+                                  - link "@Scrawk profile" [ref=e365] [cursor=pointer]:
+                                    - /url: /Scrawk
+                                    - img "@Scrawk profile" [ref=e366]
+                                  - link "Scrawk/CGALDotNet" [ref=e367] [cursor=pointer]:
+                                    - /url: /Scrawk/CGALDotNet
+                                - generic [ref=e368]: C# wrapper for CGAL
+                                - region "Repo Details 1-1" [ref=e370]:
+                                  - generic [ref=e372]: C#
+                                  - link "239 stargazers" [ref=e374] [cursor=pointer]:
+                                    - /url: /Scrawk/CGALDotNet/stargazers
+                                    - img [ref=e375]
+                                    - text: "239"
+                              - generic [ref=e379]:
+                                - button "Star this repository" [ref=e381] [cursor=pointer]:
+                                  - img [ref=e382]
+                                  - text: Star
+                                - group [ref=e384]:
+                                  - button "Add this repository to a list" [ref=e385] [cursor=pointer]:
+                                    - img [ref=e386]
+                  - article [ref=e388]:
+                    - generic [ref=e390]:
+                      - generic [ref=e392]:
+                        - img [ref=e394]
+                        - heading "Trending repositories" [level=3] [ref=e396]
+                        - generic [ref=e397]: ·
+                        - link "See more" [ref=e398] [cursor=pointer]:
+                          - /url: https://github.com/trending
+                      - generic [ref=e399]:
+                        - region "repository body 2-0" [ref=e402]:
+                          - generic [ref=e403]:
+                            - generic [ref=e404]:
+                              - generic [ref=e405]:
+                                - link "@karpathy profile" [ref=e406] [cursor=pointer]:
+                                  - /url: /karpathy
+                                  - img "@karpathy profile" [ref=e407]
+                                - link "karpathy/autoresearch" [ref=e408] [cursor=pointer]:
+                                  - /url: /karpathy/autoresearch
+                              - generic [ref=e409]:
+                                - generic [ref=e410]: AI agents running research on single-GPU nanochat training automatically
+                                - region "Repo Details 2-0" [ref=e412]:
+                                  - generic [ref=e414]: Python
+                                  - link "20234 stargazers" [ref=e416] [cursor=pointer]:
+                                    - /url: /karpathy/autoresearch/stargazers
+                                    - img [ref=e417]
+                                    - text: 20.2k
+                            - generic [ref=e421]:
+                              - button "Star this repository" [ref=e423] [cursor=pointer]:
+                                - img [ref=e424]
+                                - text: Star
+                              - group [ref=e426]:
+                                - button "Add this repository to a list" [ref=e427] [cursor=pointer]:
+                                  - img [ref=e428]
+                        - article [ref=e431]:
+                          - generic [ref=e433]:
+                            - separator [ref=e434]
+                            - region "repository body 2-1" [ref=e438]:
+                              - generic [ref=e439]:
+                                - generic [ref=e440]:
+                                  - generic [ref=e441]:
+                                    - link "@msitarzewski profile" [ref=e442] [cursor=pointer]:
+                                      - /url: /msitarzewski
+                                      - img "@msitarzewski profile" [ref=e443]
+                                    - link "msitarzewski/agency-agents" [ref=e444] [cursor=pointer]:
+                                      - /url: /msitarzewski/agency-agents
+                                  - generic [ref=e445]:
+                                    - generic [ref=e446]: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes…
+                                    - region "Repo Details 2-1" [ref=e448]:
+                                      - generic [ref=e450]: Shell
+                                      - link "22375 stargazers" [ref=e452] [cursor=pointer]:
+                                        - /url: /msitarzewski/agency-agents/stargazers
+                                        - img [ref=e453]
+                                        - text: 22.4k
+                                - generic [ref=e457]:
+                                  - button "Star this repository" [ref=e459] [cursor=pointer]:
+                                    - img [ref=e460]
+                                    - text: Star
+                                  - group [ref=e462]:
+                                    - button "Add this repository to a list" [ref=e463] [cursor=pointer]:
+                                      - img [ref=e464]
+                  - article [ref=e466]:
+                    - generic [ref=e468]:
+                      - generic [ref=e470]:
+                        - img [ref=e472]
+                        - heading "Popular projects among people you follow" [level=3] [ref=e474]:
+                          - text: Popular projects among
+                          - link "people you follow" [ref=e475] [cursor=pointer]:
+                            - /url: /1656970772?tab=following
+                      - region "repository body 3" [ref=e479]:
+                        - generic [ref=e480]:
+                          - generic [ref=e481]:
+                            - generic [ref=e482]:
+                              - link "@dicedb profile" [ref=e483] [cursor=pointer]:
+                                - /url: /dicedb
+                                - img "@dicedb profile" [ref=e484]
+                              - link "dicedb/dicedb" [ref=e485] [cursor=pointer]:
+                                - /url: /dicedb/dicedb
+                            - generic [ref=e486]:
+                              - generic [ref=e487]: Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
+                              - region "Repo Details 3" [ref=e489]:
+                                - generic [ref=e491]: C
+                                - link "10703 stargazers" [ref=e493] [cursor=pointer]:
+                                  - /url: /dicedb/dicedb/stargazers
+                                  - img [ref=e494]
+                                  - text: 10.7k
+                          - generic [ref=e498]:
+                            - button "Star this repository" [ref=e500] [cursor=pointer]:
+                              - img [ref=e501]
+                              - text: Star
+                            - group [ref=e503]:
+                              - button "Add this repository to a list" [ref=e504] [cursor=pointer]:
+                                - img [ref=e505]
+                  - article [ref=e507]:
+                    - generic [ref=e509]:
+                      - generic [ref=e511]:
+                        - generic [ref=e513]:
+                          - link "@529324416 profile" [ref=e514] [cursor=pointer]:
+                            - /url: /529324416
+                            - img "@529324416 profile" [ref=e515]
+                          - img [ref=e516]
+                        - generic [ref=e518]:
+                          - heading "529324416 starred a repository Feed item options" [level=3] [ref=e519]:
+                            - generic [ref=e520]:
+                              - generic [ref=e521]:
+                                - link "529324416" [ref=e522] [cursor=pointer]:
+                                  - /url: /529324416
+                                - text: starred
+                              - generic [ref=e525]: a repository
+                            - button "Feed item options" [ref=e529] [cursor=pointer]:
+                              - img
+                          - heading "February 10, 2026 23:43last month" [level=4] [ref=e531]
+                      - region "repository body 4" [ref=e535]:
+                        - generic [ref=e537]:
+                          - generic [ref=e538]:
+                            - generic [ref=e539]:
+                              - link "@HailToDodongo profile" [ref=e540] [cursor=pointer]:
+                                - /url: /HailToDodongo
+                                - img "@HailToDodongo profile" [ref=e541]
+                              - link "HailToDodongo/pyrite64" [ref=e542] [cursor=pointer]:
+                                - /url: /HailToDodongo/pyrite64
+                            - generic [ref=e543]: N64 Game-Engine and Editor using libdragon & tiny3d
+                            - region "Repo Details 4" [ref=e545]:
+                              - generic [ref=e547]: C++
+                              - link "2562 stargazers" [ref=e549] [cursor=pointer]:
+                                - /url: /HailToDodongo/pyrite64/stargazers
+                                - img [ref=e550]
+                                - text: 2.6k
+                          - generic [ref=e554]:
+                            - button "Star this repository" [ref=e556] [cursor=pointer]:
+                              - img [ref=e557]
+                              - text: Star
+                            - group [ref=e559]:
+                              - button "Add this repository to a list" [ref=e560] [cursor=pointer]:
+                                - img [ref=e561]
+        - contentinfo [ref=e563]:
+          - heading "Footer" [level=2] [ref=e564]
+          - generic [ref=e565]:
+            - generic [ref=e566]:
+              - link "GitHub Homepage" [ref=e567] [cursor=pointer]:
+                - /url: https://github.com
+                - img [ref=e568]
+              - generic [ref=e570]: © 2026 GitHub, Inc.
+            - navigation "Footer" [ref=e571]:
+              - heading "Footer navigation" [level=3] [ref=e572]
+              - list "Footer navigation" [ref=e573]:
+                - listitem [ref=e574]:
+                  - link "Terms" [ref=e575] [cursor=pointer]:
+                    - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+                - listitem [ref=e576]:
+                  - link "Privacy" [ref=e577] [cursor=pointer]:
+                    - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+                - listitem [ref=e578]:
+                  - link "Security" [ref=e579] [cursor=pointer]:
+                    - /url: https://github.com/security
+                - listitem [ref=e580]:
+                  - link "Status" [ref=e581] [cursor=pointer]:
+                    - /url: https://www.githubstatus.com/
+                - listitem [ref=e582]:
+                  - link "Community" [ref=e583] [cursor=pointer]:
+                    - /url: https://github.community/
+                - listitem [ref=e584]:
+                  - link "Docs" [ref=e585] [cursor=pointer]:
+                    - /url: https://docs.github.com/
+                - listitem [ref=e586]:
+                  - link "Contact" [ref=e587] [cursor=pointer]:
+                    - /url: https://support.github.com?tags=dotcom-footer
+                - listitem [ref=e588]:
+                  - button "Manage cookies" [ref=e590] [cursor=pointer]
+                - listitem [ref=e591]:
+                  - button "Do not share my personal information" [ref=e593] [cursor=pointer]
+      - complementary "Explore" [ref=e594]:
+        - generic [ref=e595]:
+          - heading "Latest from our changelog" [level=2] [ref=e596]
+          - list [ref=e597]:
+            - listitem [ref=e598]:
+              - img [ref=e600]
+              - generic [ref=e602]:
+                - generic [ref=e603]: Mar 7, 20264 days ago
+                - link "Figma MCP server can now generate design layers from VS Code" [ref=e604] [cursor=pointer]:
+                  - /url: https://github.blog/changelog/2026-03-06-figma-mcp-server-can-now-generate-design-layers-from-vs-code
+            - listitem [ref=e605]:
+              - img [ref=e607]
+              - generic [ref=e609]:
+                - generic [ref=e610]: Mar 7, 20264 days ago
+                - link "GitHub Copilot in Visual Studio Code v1.110 – February release" [ref=e611] [cursor=pointer]:
+                  - /url: https://github.blog/changelog/2026-03-06-github-copilot-in-visual-studio-code-v1-110-february-release
+            - listitem [ref=e612]:
+              - img [ref=e614]
+              - generic [ref=e616]:
+                - generic [ref=e617]: Mar 6, 20265 days ago
+                - link "GPT-5.4 is generally available in GitHub Copilot" [ref=e618] [cursor=pointer]:
+                  - /url: https://github.blog/changelog/2026-03-05-gpt-5-4-is-generally-available-in-github-copilot
+            - listitem [ref=e619]:
+              - img [ref=e621]
+              - generic [ref=e623]:
+                - generic [ref=e624]: Mar 6, 20265 days ago
+                - link "Discover and manage agent activity with new session filters" [ref=e625] [cursor=pointer]:
+                  - /url: https://github.blog/changelog/2026-03-05-discover-and-manage-agent-activity-with-new-session-filters
+          - link "View changelog →" [ref=e627] [cursor=pointer]:
+            - /url: https://github.blog/changelog

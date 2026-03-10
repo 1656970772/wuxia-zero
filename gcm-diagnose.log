@@ -1,0 +1,230 @@
+﻿Diagnose log at 2026-03-10T13:18:32Z
+
+AppPath: D:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: D:\Program Files\Git\mingw64\bin\
+Version: 2.6.0+3c28096588f549cb46f36b552390514356830abe
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26100)
+Reading environment variables... OK
+ Variables:
+LESS=
+RUSTROVER_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\rustrover.vmoptions
+NasAccount=BJZW\zhicheng.zhou
+PUBLIC=C:\Users\Public
+ALLUSERSPROFILE=C:\ProgramData
+LOGONSERVER=\\WIN-T207US2EA47
+LOCALAPPDATA=C:\Users\Administrator\AppData\Local
+ProgramData=C:\ProgramData
+CODEX_THREAD_ID=019cd7e4-3da1-78b0-864f-d240b7f650ba
+GATEWAY_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\gateway.vmoptions
+FastBuildVersion=2
+APPCODE_VM_OPTIONS=F:\WinBeiYong\jetbra\vmoptions\appcode.vmoptions
+TMPDIR=F:\System_Temp
+ProgramW6432=C:\Program Files
+PAGER=more.com
+MSYSTEM=MINGW64
+JetBrains Rider=D:\Program Files\JetBrains\JetBrains Rider 2024.3.2\bin;
+KAFKA_SUFFIX=f3bcdde2dde34118b6321b87065c0ee7
+GIT_EXEC_PATH=D:/Program Files/Git/mingw64/libexec/git-core
+DATASPELL_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\dataspell.vmoptions
+ZSH_TMUX_AUTOSTARTED=true
+SHELL=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+SystemDrive=C:
+GIT_CONFIG_VALUE_0=F:\MyTools\类武士零武侠
+STUDIO_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\studio.vmoptions
+DATAGRIP_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\datagrip.vmoptions
+OS=Windows_NT
+PROCESSOR_ARCHITECTURE=x86
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+IntelliJ IDEA=D:\Program Files\JetBrains\IntelliJ IDEA 2024.1\bin;
+JAVA_HOME=C:\Program Files\Amazon Corretto\jdk17.0.15_6
+CommonProgramW6432=C:\Program Files\Common Files
+NDK_ROOT=C:\Users\Administrator\AppData\Local\Android\Sdk\ndk\21.4.7075529
+ProgramFiles(x86)=C:\Program Files (x86)
+PyCharm Community Edition=D:\Program Files\JetBrains\PyCharm Community Edition 2022.1\bin;
+USERNAME=Administrator
+GIT_CONFIG_COUNT=1
+WEBIDE_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\webide.vmoptions
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+TERM=xterm-256color
+CODEX_SHELL=1
+GOLAND_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\goland.vmoptions
+PW_UE-SharedDataCachePath=\\10.32.77.30\GShared\PW\SharedDDC
+ProgramFiles=C:\Program Files (x86)
+GIT_CONFIG_KEY_0=safe.directory
+JETBRAINSCLIENT_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\jetbrainsclient.vmoptions
+JETBRAINS_CLIENT_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\jetbrains_client.vmoptions
+OneDrive=C:\Users\Administrator\OneDrive
+PSModulePath=C:\Users\Administrator\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PROCESSOR_REVISION=a505
+LC_CTYPE=C.UTF-8
+USERDOMAIN=WIN-T207US2EA47
+IDEA_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\idea.vmoptions
+DEVECOSTUDIO_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\devecostudio.vmoptions
+ZSH_TMUX_AUTOSTART=false
+COMPUTERNAME=WIN-T207US2EA47
+RIDER_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\rider.vmoptions
+DISABLE_AUTO_UPDATE=true
+PATH=D:/Program Files/Git/mingw64/libexec/git-core;D:\Program Files\Git\mingw64\bin;D:\Program Files\Git\usr\bin;C:\Users\Administrator\bin;C:\Users\Administrator\.codex\tmp\arg0\codex-arg0INLUYM;C:\Program Files\Amazon Corretto\jdk11.0.13_8\bin;C:\Program Files\Amazon Corretto\jdk17.0.15_6\bin;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Perforce\;C:\Program Files\dotnet\;D:\Android_SDK\platform-tools;C:\FastBuild;D:\Android_SDK\cmdline-tools\8.0\bin;C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1;C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1;D:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.13;C:\Program Files\TortoiseGit\bin;D:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\Hostx64\x64;C:\Program Files\Amazon Corretto\jdk11.0.13_8\bin;E:\Program Files\mingw32\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\Administrator\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python313\;C:\Users\Administrator\AppData\Local\Programs\Python\Launcher\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\Program Files\JetBrains\JetBrains Rider 2023.3.1\bin;D:\Program Files\JetBrains\PyCharm Community Edition 2022.1\bin;D:\Program Files\JetBrains\IntelliJ IDEA 2024.1\bin;D:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\FastBuild\;C:\Users\Administrator\.dotnet\tools;D:\Program Files\JetBrains\JetBrains Rider 2024.3.2\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\Program Files\Cursor\cursor\resources\app\bin;C:\Users\Administrator\AppData\Roaming\npm;C:\Users\Administrator\AppData\Local\OpenAI\Codex\bin;C:\Program Files\WindowsApps\OpenAI.Codex_26.306.996.0_x64__2p2nqsd0c76g0\app\resources
+SystemRoot=C:\WINDOWS
+CLION_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\clion.vmoptions
+ComSpec=C:\WINDOWS\system32\cmd.exe
+AQUA_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\aqua.vmoptions
+PROCESSOR_LEVEL=6
+BSPRINT_CLIENT=C:/Users/Administrator/AppData/Roaming/Brocadesoft
+NasPassword=bjzw@100
+HOMEDRIVE=C:
+CODEX_SANDBOX_NETWORK_DISABLED=1
+USERPROFILE=C:\Users\Administrator
+RUBYMINE_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\rubymine.vmoptions
+NDKROOT=C:\Users\Administrator\AppData\Local\Android\Sdk\ndk\21.4.7075529
+WEBSTORM_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\webstorm.vmoptions
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 165 Stepping 5, GenuineIntel
+Path=C:\Users\Administrator\.codex\tmp\arg0\codex-arg0INLUYM;C:\Program Files\Amazon Corretto\jdk11.0.13_8\bin;C:\Program Files\Amazon Corretto\jdk17.0.15_6\bin;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Perforce\;C:\Program Files\dotnet\;D:\Android_SDK\platform-tools;C:\FastBuild;D:\Android_SDK\cmdline-tools\8.0\bin;C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1;C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1;D:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.13;C:\Program Files\TortoiseGit\bin;D:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\Hostx64\x64;C:\Program Files\Amazon Corretto\jdk11.0.13_8\bin;E:\Program Files\mingw32\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\Administrator\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python313\;C:\Users\Administrator\AppData\Local\Programs\Python\Launcher\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\Program Files\JetBrains\JetBrains Rider 2023.3.1\bin;D:\Program Files\JetBrains\PyCharm Community Edition 2022.1\bin;D:\Program Files\JetBrains\IntelliJ IDEA 2024.1\bin;D:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\FastBuild\;C:\Users\Administrator\.dotnet\tools;D:\Program Files\JetBrains\JetBrains Rider 2024.3.2\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\Program Files\Cursor\cursor\resources\app\bin;C:\Users\Administrator\AppData\Roaming\npm;C:\Users\Administrator\AppData\Local\OpenAI\Codex\bin;C:\Program Files\WindowsApps\OpenAI.Codex_26.306.996.0_x64__2p2nqsd0c76g0\app\resources
+windir=C:\WINDOWS
+TMP=F:\System_Temp
+DriverData=C:\Windows\System32\Drivers\DriverData
+APPDATA=C:\Users\Administrator\AppData\Roaming
+P4Password=zzc2121dyy
+FC_UE-SharedDataCachePath=\\10.32.78.24\GShared\ShareDDC
+ANDROID_HOME=C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.1.1-all\cfmwm155h49vnt3hynmlrsdst\gradle-6.1.1
+PYCHARM_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\pycharm.vmoptions
+NUMBER_OF_PROCESSORS=16
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_40456_UFOLIFWSTTTXAXAP
+FASTBUILD_BROKERAGE_PATH=\\10.32.78.23\shared\FASTBuildBrokerV2
+asl.log=Destination=file
+USERDOMAIN_ROAMINGPROFILE=WIN-T207US2EA47
+GIT_PAGER=more.com
+PLINK_PROTOCOL=ssh
+GIT_TRACE2_PARENT_SID=16d9d1d1-c393-45db-819d-20228fee5826
+UE-SharedDataCachePath=\\10.32.78.24\GShared\ShareDDC
+CODEX_INTERNAL_ORIGINATOR_OVERRIDE=Codex Desktop
+RUST_LOG=warn
+HOMEPATH=\Users\Administrator
+P4Account=zhicheng.zhou
+COLORTERM=truecolor
+HOME=C:\Users\Administrator
+PROCESSOR_ARCHITEW6432=AMD64
+PHPSTORM_VM_OPTIONS=F:\jihuo2099\jihuo2099\vmoptions\phpstorm.vmoptions
+TEMP=F:\System_Temp
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'F:\System_Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'F:\System_Temp\2c834fd19595c44b3ef1f423'... OK
+Reading from temporary file 'F:\System_Temp\2c834fd19595c44b3ef1f423'... OK
+Deleting temporary file 'F:\System_Temp\2c834fd19595c44b3ef1f423'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\CodexSandboxOffline
+UserDataDirectoryPath: C:\Users\CodexSandboxOffline\.gcm
+GetCurrentDirectory(): F:\MyTools\类武士零武侠
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: False
+Exception:
+System.Net.Http.HttpRequestException: 发送请求时出错。 ---> System.Net.WebException: 基础连接已经关闭: 接收时发生错误。 ---> System.ComponentModel.Win32Exception: 安全包中没有可用的凭证
+   在 System.Net.SSPIWrapper.AcquireCredentialsHandle(SSPIInterface SecModule, String package, CredentialUse intent, SecureCredential2 scc)
+   在 System.Net.Security.SecureChannel.AcquireCredentialsHandle(CredentialUse credUsage, SecureCredential2& secureCredential)
+   在 System.Net.Security.SecureChannel.AcquireCredentialsHandle(CredentialUse credUsage, X509Certificate2 selectedCert, Flags flags)
+   在 System.Net.Security.SecureChannel.AcquireClientCredentials(Byte[]& thumbPrint)
+   在 System.Net.Security.SecureChannel.GenerateToken(Byte[] input, Int32 offset, Int32 count, Byte[]& output)
+   在 System.Net.Security.SecureChannel.NextMessage(Byte[] incoming, Int32 offset, Int32 count)
+   在 System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest, Boolean renegotiation)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest, Boolean renegotiation)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Net.TlsStream.CallProcessAuthentication(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback asyncCallback, Object asyncState)
+   在 System.Net.TlsStream.UnsafeBeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback asyncCallback, Object asyncState)
+   在 System.Net.PooledStream.UnsafeBeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 GitCredentialManager.Diagnostics.NetworkingDiagnostic.<RunInternalAsync>d__4.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 GitCredentialManager.Diagnostics.Diagnostic.<RunAsync>d__6.MoveNext()
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.47.0.windows.1'
+Locating current repository...Git repository at 'F:/MyTools/类武士零武侠/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:D:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:D:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:D:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:D:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:D:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:D:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:D:/Program Files/Git/etc/gitconfig	http.sslcainfo=D:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:D:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:D:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:D:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:D:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:D:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:D:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:D:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/Administrator/.gitconfig	http.sslverify=false
+file:C:/Users/Administrator/.gitconfig	http.postbuffer=1048576000
+file:C:/Users/Administrator/.gitconfig	credential.https://svn.corp.rtwind.cn.provider=generic
+file:C:/Users/Administrator/.gitconfig	credential.helper=store
+file:C:/Users/Administrator/.gitconfig	user.name=zhouzhicheng
+file:C:/Users/Administrator/.gitconfig	user.email=zhicheng.zhou@garena.com
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+command line:	safe.directory=F:\MyTools\类武士零武侠
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+

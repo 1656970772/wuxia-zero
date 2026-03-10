@@ -1,0 +1,6 @@
+[   27823ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://collector.github.com/github/collect:0
+[ 1794259ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://collector.github.com/github/collect:0
+[ 1815029ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://github.com/github-copilot/chat/entitlement:0
+[ 1840348ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://collector.github.com/github/collect:0
+[ 1854338ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://collector.github.com/github/collect:0
+[ 1870632ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://collector.github.com/github/collect:0
